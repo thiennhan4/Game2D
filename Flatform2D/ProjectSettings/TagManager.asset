@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - Enemy
+  - Arrow
+  - PopupText
+  - Wall
+  - Skill1
+  - Skill2
+  - HpBar
+  - Impact
+  - Aoe
+  - Coin
+  - Trap
+  - Chets
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Arrow
+  - PopupText
+  - TileMap
+  - Wall
+  - Skil1
+  - Impact
+  - Aoe
+  - Coin
+  - Trap
+  - BackGround_Sky
+  - BackGround_Far
+  - BackGround_Mid
+  - Chets
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3081089049
+    locked: 0
+  - name: Ground
+    uniqueID: 118701047
+    locked: 0
+  - name: Enemy
+    uniqueID: 2554850279
+    locked: 0
+  - name: Arrow
+    uniqueID: 1437908879
+    locked: 0
+  - name: Wall
+    uniqueID: 1612841647
+    locked: 0
+  - name: Skill1
+    uniqueID: 507028989
+    locked: 0
+  - name: Skill2
+    uniqueID: 1563677391
+    locked: 0
+  - name: HpBar
+    uniqueID: 3813215751
+    locked: 0
+  - name: Impact
+    uniqueID: 1950800431
+    locked: 0
+  - name: Aoe
+    uniqueID: 3055376845
+    locked: 0
+  - name: Coin
+    uniqueID: 3906844509
+    locked: 0
+  - name: Chets
+    uniqueID: 3796060573
+    locked: 0
+  m_RenderingLayers:
+  - Default
